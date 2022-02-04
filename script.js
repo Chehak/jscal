@@ -11,4 +11,4 @@ setInterval(() => {
 
 setTimeout(() => {
     followers[0].innerHTML= "LinkedIn Followers";
-}, 3994);
+}, 2994);
