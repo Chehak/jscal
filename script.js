@@ -3,7 +3,7 @@ var followers = document.getElementsByClassName("followers");
 
 let count = 1;
 setInterval(() => {
-    if (count<1000) {
+    if (count<500) {
         count++;
         h1[0].innerHTML= count;
     }
